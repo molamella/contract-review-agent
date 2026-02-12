@@ -180,4 +180,4 @@ Salesforce 계정에 Contracts 객체 접근 권한이 있는지 확인하세요
 
 ## 문의
 
-Mina (mhcho@cafe24corp.com) 에게 문의하거나 Slack #tiktok_gb 채널에 메시지를 남겨주세요.
+Mina (mhcho@cafe24corp.com) 에게 문의해주세요.
