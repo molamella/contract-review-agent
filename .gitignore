@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+**/.DS_Store
+
+# Contract review outputs (contain sensitive partner data, emails, Slack messages)
+reviews/
+contract-draft.txt
+agent1-*.md
+agent2-*.md
+agent3-*.md
+agent4-*.md
+
+# Claude Code internals
+.claude/projects/
+.claude/plugins/
+.claude/settings.*

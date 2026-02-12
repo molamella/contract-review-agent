@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "rube": {
+      "type": "streamableHttp",
+      "url": "https://rube.app/mcp"
+    },
+    "Salesforce DX": {
+      "command": "npx",
+      "args": ["-y", "@salesforce/mcp",
+               "--orgs", "DEFAULT_TARGET_ORG",
+               "--toolsets", "orgs,metadata,data,users",
+               "--allow-non-ga-tools"]
+    }
+  }
+}
